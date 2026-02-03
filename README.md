@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Cytometry In R
+
+Location: Montevideo, Uruguay
+
+My Favorite Fluorophore/Metal-Isotope: GFP
+
+Previous Coding Experience: 0
+
+What I Hope to Get From This Course: A basic knowldedge or analysys using R.
+
